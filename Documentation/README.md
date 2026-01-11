@@ -1,5 +1,3 @@
-## Project Documentation
-
 This folder contains all Business Analyst deliverables for the Real Estate Management System project.
 
 Included documents:
