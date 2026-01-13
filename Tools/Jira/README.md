@@ -1,5 +1,6 @@
-Jira was used to manage Agile project activities for the Real Estate Management System.
+Jira was used to manage the Real Estate project using Agile Scrum methodology.
 
-- Created epics and user stories
-- Managed product backlog
-- Tracked sprint progress using boards
+- Created Epics, Stories, and Tasks
+- Managed backlog and sprint workflow
+- Tracked progress using Kanban board
+
